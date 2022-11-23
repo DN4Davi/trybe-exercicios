@@ -12,6 +12,4 @@ const printMessage = (characterInfo) => {
   return ('Boas vindas, '+ characterInfo.personagem);
 };
 
-console.log(printMessage(info));
-
 module.exports = { info, printMessage };
