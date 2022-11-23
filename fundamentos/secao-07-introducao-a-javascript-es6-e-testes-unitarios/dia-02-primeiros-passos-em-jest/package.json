@@ -1,0 +1,22 @@
+{
+  "name": "dia-02-primeiros-passos-em-jest",
+  "version": "1.0.0",
+  "description": "Exercícios do dia",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DN4Davi/trybe-exercicios.git#fundamentos"
+  },
+  "author": "DN4Davi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DN4Davi/trybe-exercicios/issues"
+  },
+  "homepage": "https://github.com/DN4Davi/trybe-exercicios/tree/fundamentos#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
